@@ -1,0 +1,15 @@
+{
+  "name": "haiticss-playground",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@haiticss/haiticss": "git://github.com/haiticss/haiticss.git",
+    "grunt": "^1.0.1",
+    "grunt-assemble": "^0.6.3",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-cssnano": "^2.1.0",
+    "grunt-group-css-media-queries": "^1.0.1",
+    "grunt-sass": "^2.0.0",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
